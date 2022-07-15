@@ -1,0 +1,16 @@
+html {
+  font-family: sans-serif;
+  background: #111;
+  color: #eee;
+}
+
+button {
+  padding-block: 0.25em;
+  padding-inline: 1em;
+  border-radius: 100vmax;
+}
+
+textarea {
+  color: inherit;
+  background: inherit;
+}
